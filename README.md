@@ -8,4 +8,5 @@ The link to my profile at Hackerrank: https://www.hackerrank.com/purevsuren__a
 
 |Subdomain|Problem Name|Problem Link|Language|Solution Link|
 ---|---|---|---|---
-|BitManipulation|AND Product|[Problem](https://www.hackerrank.com/challenges/solve-me-first/problem)|Python3|[Solution](BitManipulation/solveMeFirst.py)|
+|BitManipulation|Solve Me First|[Problem](https://www.hackerrank.com/challenges/solve-me-first/problem)|Python3|[Solution](BitManipulation/solveMeFirst.py)|
+|BitManipulation|Simple Array Sum|[Problem](https://www.hackerrank.com/challenges/simple-array-sum/problem)|Python3|[Solution](BitManipulation/simpleArraySum.py)|
