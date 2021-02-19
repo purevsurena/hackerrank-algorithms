@@ -15,3 +15,4 @@ The link to my profile at Hackerrank: https://www.hackerrank.com/purevsuren__a
 |Warmup|Diagonal Difference|[Problem](https://www.hackerrank.com/challenges/diagonal-difference/problem)|Python3|[Solution](Warmup/diagonalDifference.py)|
 |Warmup|Plus Minus|[Problem](https://www.hackerrank.com/challenges/plus-minus/problem)|Python3|[Solution](Warmup/plusMinus.py)|
 |Warmup|Staircase|[Problem](https://www.hackerrank.com/challenges/staircase/problem)|Python3|[Solution](Warmup/staircase.py)|
+|Warmup|Mini-Max Sum|[Problem](https://www.hackerrank.com/challenges/mini-max-sum/problem)|Python3|[Solution](Warmup/miniMaxSum.py)|
