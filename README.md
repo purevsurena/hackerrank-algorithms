@@ -10,4 +10,5 @@ The link to my profile at Hackerrank: https://www.hackerrank.com/purevsuren__a
 ---|---|---|---|---
 |Warmup|Solve Me First|[Problem](https://www.hackerrank.com/challenges/solve-me-first/problem)|Python3|[Solution](Warmup/solveMeFirst.py)|
 |Warmup|Simple Array Sum|[Problem](https://www.hackerrank.com/challenges/simple-array-sum/problem)|Python3|[Solution](Warmup/simpleArraySum.py)|
-|Warmup|Compare the Triplets|[Problem](https://www.hackerrank.com/challenges/compare-the-triplets/problem)|Python3|[Solution](Warmup/compareTheTriples.py)|
+|Warmup|Compare the Triplets|[Problem](https://www.hackerrank.com/challenges/compare-the-triplets/problem)|Python3|[Solution](Warmup/compareTheTriplets.py)|
+|Warmup|A Very Big Sum|[Problem](https://www.hackerrank.com/challenges/a-very-big-sum/problem)|Python3|[Solution](Warmup/aVeryBigSum.py)|
