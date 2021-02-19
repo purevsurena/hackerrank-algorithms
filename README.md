@@ -13,3 +13,4 @@ The link to my profile at Hackerrank: https://www.hackerrank.com/purevsuren__a
 |Warmup|Compare the Triplets|[Problem](https://www.hackerrank.com/challenges/compare-the-triplets/problem)|Python3|[Solution](Warmup/compareTheTriplets.py)|
 |Warmup|A Very Big Sum|[Problem](https://www.hackerrank.com/challenges/a-very-big-sum/problem)|Python3|[Solution](Warmup/aVeryBigSum.py)|
 |Warmup|Diagonal Difference|[Problem](https://www.hackerrank.com/challenges/diagonal-difference/problem)|Python3|[Solution](Warmup/diagonalDifference.py)|
+|Warmup|Plus Minus|[Problem](https://www.hackerrank.com/challenges/plus-minus/problem)|Python3|[Solution](Warmup/plusMinus.py)|
