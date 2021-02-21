@@ -19,3 +19,4 @@ The link to my profile at Hackerrank: https://www.hackerrank.com/purevsuren__a
 |Warmup|Birthday Cake Candles|[Problem](https://www.hackerrank.com/challenges/birthday-cake-candles/problem)|Python3|[Solution](Warmup/birthdayCakeCandles.py)|
 |Warmup|Time Conversion|[Problem](https://www.hackerrank.com/challenges/time-conversion/problem)|Python3|[Solution](Warmup/timeConversion.py)|
 |Implementation|Grading Students|[Problem](https://www.hackerrank.com/challenges/grading/problem)|Python3|[Solution](Implementation/gradingStudents.py)|
+|Implementation|Apple and Orange|[Problem](https://www.hackerrank.com/challenges/apple-and-orange/problem)|Python3|[Solution](Implementation/appleAndOrange.py)|
