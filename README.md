@@ -18,3 +18,4 @@ The link to my profile at Hackerrank: https://www.hackerrank.com/purevsuren__a
 |Warmup|Mini-Max Sum|[Problem](https://www.hackerrank.com/challenges/mini-max-sum/problem)|Python3|[Solution](Warmup/miniMaxSum.py)|
 |Warmup|Birthday Cake Candles|[Problem](https://www.hackerrank.com/challenges/birthday-cake-candles/problem)|Python3|[Solution](Warmup/birthdayCakeCandles.py)|
 |Warmup|Time Conversion|[Problem](https://www.hackerrank.com/challenges/time-conversion/problem)|Python3|[Solution](Warmup/timeConversion.py)|
+|Implementation|Grading Students|[Problem](https://www.hackerrank.com/challenges/grading/problem)|Python3|[Solution](Implementation/gradingStudents.py)|
